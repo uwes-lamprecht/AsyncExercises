@@ -1,0 +1,11 @@
+﻿@model MvcAsync.ViewModels.HomePageViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<ul style="margin-top: 20px;">
+    @foreach (string message in Model.Messages)
+    {
+        <li>@message</li>
+    }
+</ul>

@@ -1,0 +1,12 @@
+/.vs
+/AsyncDeadlock/bin
+/AsyncDeadlock/obj
+/CaculatePi/obj
+/CaculatePi/bin
+/HttpClientAsync/obj
+/HttpClientAsync/bin
+/MvcAsync/obj
+/MvcAsync/bin
+/OperationAsync/obj
+/OperationAsync/bin
+/packages
